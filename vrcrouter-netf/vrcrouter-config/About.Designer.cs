@@ -43,7 +43,7 @@
       this.label6.Name = "label6";
       this.label6.Size = new System.Drawing.Size(267, 15);
       this.label6.TabIndex = 18;
-      this.label6.Text = "Copyright (c) 2023 ValueFactory https://value.gay";
+      this.label6.Text = "Copyright (c) 2023-2026 ValueFactory https://value.gay";
       // 
       // version
       // 

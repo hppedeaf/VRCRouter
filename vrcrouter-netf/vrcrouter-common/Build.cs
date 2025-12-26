@@ -5,8 +5,8 @@ namespace ValueFactoryVRCRouterCommon {
       public static string build_version = "DEBUG";
       public static string build_date = "DEBUG";
     #else
-      public static string build_version = "1.0.3";
-      public static string build_date = "2024-04-12 17:14:42";
+      public static string build_version = "1.0.0";
+      public static string build_date = "2026-01-01 00:00:00";
     #endif
   }
 }
